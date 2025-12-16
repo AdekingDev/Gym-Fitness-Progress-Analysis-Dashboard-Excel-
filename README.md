@@ -26,3 +26,5 @@ Tracking fitness progress can be misleading when relying only on daily weight ch
 - Higher protein intake supports longer workout duration
 - Weekly patterns reveal burnout and recovery phases
 - Consistency matters more than intensity for long-term progress
+
+ ![image alt](?raw=true)
