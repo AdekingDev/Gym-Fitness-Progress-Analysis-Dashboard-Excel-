@@ -27,4 +27,4 @@ Tracking fitness progress can be misleading when relying only on daily weight ch
 - Weekly patterns reveal burnout and recovery phases
 - Consistency matters more than intensity for long-term progress
 
- ![image alt](?raw=true)
+ ![image alt](https://github.com/AdekingDev/Gym-Fitness-Progress-Analysis-Dashboard-Excel-/blob/main/Screenshot%202025-12-16%20at%2023.36.51.png?raw=true?raw=true)
